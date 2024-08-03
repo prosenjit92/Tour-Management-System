@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourManagementSystem", "TourManagementSystem\TourManagementSystem.csproj", "{F7CC8E2F-ABDF-4497-80B7-C83381A0E2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{1C8CE154-24F6-4B18-AF14-8D6A9FD73624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{4EE4BEF9-DBC8-4151-A418-75539895F5F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CC8E2F-ABDF-4497-80B7-C83381A0E2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CC8E2F-ABDF-4497-80B7-C83381A0E2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CC8E2F-ABDF-4497-80B7-C83381A0E2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CC8E2F-ABDF-4497-80B7-C83381A0E2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8CE154-24F6-4B18-AF14-8D6A9FD73624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8CE154-24F6-4B18-AF14-8D6A9FD73624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8CE154-24F6-4B18-AF14-8D6A9FD73624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8CE154-24F6-4B18-AF14-8D6A9FD73624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE4BEF9-DBC8-4151-A418-75539895F5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE4BEF9-DBC8-4151-A418-75539895F5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE4BEF9-DBC8-4151-A418-75539895F5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE4BEF9-DBC8-4151-A418-75539895F5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3598C132-601D-4822-A55D-12DF495215BF}
+	EndGlobalSection
+EndGlobal

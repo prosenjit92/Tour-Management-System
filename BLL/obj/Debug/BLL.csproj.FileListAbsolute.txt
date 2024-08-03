@@ -1,0 +1,14 @@
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\BLL.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\BLL.pdb
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\AutoMapper.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\DAL.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\EntityFramework.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\DAL.pdb
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\DAL.dll.config
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\AutoMapper.xml
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\bin\Debug\EntityFramework.xml
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\obj\Debug\BLL.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\BLL\obj\Debug\BLL.pdb

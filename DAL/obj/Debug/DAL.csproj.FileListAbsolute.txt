@@ -1,0 +1,16 @@
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\DAL.dll.config
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\DAL.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\DAL.pdb
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\EntityFramework.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\EntityFramework.xml
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.dll
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.pdb
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.Migrations.initiDB.resources
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.Migrations.adddata.resources
+D:\codes\.Net fall 2023\FullStack Web Project\TourManagementSystem\DAL\obj\Debug\DAL.Migrations.newAddition.resources
